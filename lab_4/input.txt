@@ -1,0 +1,38 @@
+1 audi 10.1
+1 bmw 20.2
+1 ford 30.3
+1 honda 40.4
+1 kia 50.5
+1 mazda 60.6
+1 nissan 70.7
+1 opel 80.8
+1 reno 90.9
+1 skoda 11.1
+1 tesla 22.2
+1 toyota 33.3
+1 volvo 44.4
+1 lexus 55.5
+1 dodge 66.6
+1 jeep 77.7
+1 suzuki 88.8
+1 subaru 99.9
+1 fiat 12.2
+1 citroen 23.3
+3
+4 audi
+4 tesla
+4 ferrari
+2 ford
+2 kia
+2 mazda
+3
+1 ferrari 34.4
+1 porsche 45.5
+1 bentley 56.6
+1 jaguar 67.7
+3
+4 ferrari
+4 ford
+2 audi
+2 volvo
+3
